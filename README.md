@@ -1,8 +1,8 @@
-Hey there welcome to my bio I'm a dedicated and experienced web developer.
-I can assist you if you need any help.
-Because I'm accessible and easy to collaborate with
-I can also help you deliver a nice and interactive website 
-You can see one of my websites below
+Hey there welcome to my page I'm a dedicated and experienced web developer.<br>
+I can assist you if you need any help.<br>
+Because I'm accessible and easy to collaborate with.<br>
+I can also help you deliver a nice and interactive website.<br>
+You can see one of my websites below<br>
 https://reubeez-com.vercel.app/
 
 <!---
